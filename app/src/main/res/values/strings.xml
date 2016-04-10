@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OneTapVineModule</string>
+    <string name="app_description">Allows downloading vine videos. It requires One Tap Video Download to work.</string>
+</resources>
